@@ -1,0 +1,34 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vspscc
+*.userprefs
+*.tmp
+*.hg
+
+# Test results
+.pytest_cache/
+coverage/
+htmlcov/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Data files (if not necessary for version control)
+data/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
